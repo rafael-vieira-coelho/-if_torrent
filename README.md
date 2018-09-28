@@ -24,7 +24,6 @@ Ou, se preferir, baixe apenas o cliente (sem instalação) no [seguinte link](ht
 Requisito | Mínimo | Recomendado
 ------------ | ------------- | -------------
 Sistema Operacional | Windows | Windows
-Processador | não sei como medir isso | não sei como medir isso
 Memória RAM | 2GB | 8GB
 Espaço em Disco | 9MB | 9MB
 Placa de Vídeo | nenhum | nenhum
